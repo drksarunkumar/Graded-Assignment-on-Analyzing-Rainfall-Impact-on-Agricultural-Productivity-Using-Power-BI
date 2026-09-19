@@ -1,2 +1,0 @@
-# Graded-Assignment-on-Analyzing-Rainfall-Impact-on-Agricultural-Productivity-Using-Power-BI
-This project aims to empower learners to perform comprehensive data analytics and build an interactive Power BI dashboard that visualizes and interprets the relationship between rainfall patterns and agricultural productivity. The dataset contains comprehensive information combining agricultural productivity and rainfall across Indian states.
